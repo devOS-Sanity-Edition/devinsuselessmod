@@ -40,7 +40,7 @@ public class Blocks {
 
     //Powder Blocks
     public static final Block RED_POWDER = register("red_powder", new ConcretePowderBlock(RED, FabricBlockSettings.copy(WHITE_CONCRETE_POWDER)));
-    public static final Block DARK_RED_POWDER = register("dark_red_powder", new ConcretePowderBlock(RED, FabricBlockSettings.copy(WHITE_CONCRETE_POWDER)));
+    public static final Block DARK_RED_POWDER = register("dark_red_powder", new ConcretePowderBlock(DARK_RED, FabricBlockSettings.copy(WHITE_CONCRETE_POWDER)));
     public static final Block ORANGE_POWDER = register("orange_powder", new ConcretePowderBlock(ORANGE, FabricBlockSettings.copy(WHITE_CONCRETE_POWDER)));
     public static final Block YELLOW_POWDER = register("yellow_powder", new ConcretePowderBlock(YELLOW, FabricBlockSettings.copy(WHITE_CONCRETE_POWDER)));
     public static final Block GREEN_POWDER = register("green_powder", new ConcretePowderBlock(GREEN, FabricBlockSettings.copy(WHITE_CONCRETE_POWDER)));
