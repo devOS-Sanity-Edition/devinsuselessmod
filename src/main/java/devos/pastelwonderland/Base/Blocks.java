@@ -1,4 +1,4 @@
-package dev.hiitsdevin.pastelwonderland.Base;
+package devos.pastelwonderland.Base;
 
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
@@ -10,8 +10,8 @@ import net.minecraft.util.registry.Registry;
 import net.minecraft.world.BlockView;
 
 
-import static dev.hiitsdevin.pastelwonderland.PastelWonderland.MOD_ID;
-import static dev.hiitsdevin.pastelwonderland.PastelWonderland.BLOCKS;
+import static devos.pastelwonderland.PastelWonderland.MOD_ID;
+import static devos.pastelwonderland.PastelWonderland.BLOCKS;
 //Copy these block settings
 import static net.minecraft.block.Blocks.WHITE_CONCRETE;
 import static net.minecraft.block.Blocks.WHITE_CONCRETE_POWDER;

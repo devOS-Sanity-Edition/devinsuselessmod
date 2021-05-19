@@ -1,4 +1,4 @@
-package dev.hiitsdevin.pastelwonderland.Mixin;
+package devos.pastelwonderland.Mixin;
 
 import net.minecraft.client.MinecraftClient;
 import org.spongepowered.asm.mixin.Mixin;

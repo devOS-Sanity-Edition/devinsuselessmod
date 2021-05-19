@@ -16,10 +16,10 @@
   "environment": "*",
   "entrypoints": {
     "client": [
-      "dev.hiitsdevin.pastelwonderland.Client.PastelWonderlandClient"
+      "devos.pastelwonderland.Client.PastelWonderlandClient"
     ],
     "main": [
-      "dev.hiitsdevin.pastelwonderland.PastelWonderland"
+      "devos.pastelwonderland.PastelWonderland"
     ]
   },
   "mixins": [

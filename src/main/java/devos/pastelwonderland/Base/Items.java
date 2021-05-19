@@ -1,4 +1,4 @@
-package dev.hiitsdevin.pastelwonderland.Base;
+package devos.pastelwonderland.Base;
 
 import net.minecraft.item.FoodComponent;
 import net.minecraft.item.Item;
@@ -6,8 +6,8 @@ import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.registry.Registry;
 
-import static dev.hiitsdevin.pastelwonderland.PastelWonderland.FOODS;
-import static dev.hiitsdevin.pastelwonderland.PastelWonderland.MOD_ID;
+import static devos.pastelwonderland.PastelWonderland.FOODS;
+import static devos.pastelwonderland.PastelWonderland.MOD_ID;
 
 public class Items {
     public static final Item MALLARD_RAW = foodRegister("raw_mallard", 2, 1.5f);

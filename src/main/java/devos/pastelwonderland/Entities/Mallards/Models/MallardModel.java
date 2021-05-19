@@ -1,7 +1,7 @@
-package dev.hiitsdevin.pastelwonderland.Entities.Mallards.Models;
+package devos.pastelwonderland.Entities.Mallards.Models;
 
 import com.google.common.collect.ImmutableList;
-import dev.hiitsdevin.pastelwonderland.Entities.Mallards.MallardEntity;
+import devos.pastelwonderland.Entities.Mallards.MallardEntity;
 import net.minecraft.client.model.ModelPart;
 import net.minecraft.client.render.entity.model.AnimalModel;
 import net.minecraft.util.math.MathHelper;

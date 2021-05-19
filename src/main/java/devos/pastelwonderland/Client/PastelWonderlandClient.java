@@ -1,7 +1,7 @@
-package dev.hiitsdevin.pastelwonderland.Client;
+package devos.pastelwonderland.Client;
 
-import dev.hiitsdevin.pastelwonderland.Entities.Mallards.MallardRenderer;
-import dev.hiitsdevin.pastelwonderland.PastelWonderland;
+import devos.pastelwonderland.Entities.Mallards.MallardRenderer;
+import devos.pastelwonderland.PastelWonderland;
 import net.fabricmc.api.ClientModInitializer;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;

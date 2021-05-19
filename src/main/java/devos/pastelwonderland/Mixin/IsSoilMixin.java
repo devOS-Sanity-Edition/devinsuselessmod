@@ -1,6 +1,6 @@
-package dev.hiitsdevin.pastelwonderland.Mixin;
+package devos.pastelwonderland.Mixin;
 
-import dev.hiitsdevin.pastelwonderland.Base.Blocks;
+import devos.pastelwonderland.Base.Blocks;
 import net.minecraft.block.Block;
 import net.minecraft.world.gen.feature.Feature;
 import org.spongepowered.asm.mixin.Mixin;

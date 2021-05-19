@@ -1,12 +1,12 @@
-package dev.hiitsdevin.pastelwonderland.Entities.Mallards;
+package devos.pastelwonderland.Entities.Mallards;
 
-import dev.hiitsdevin.pastelwonderland.Entities.Mallards.Models.MallardModel;
+import devos.pastelwonderland.Entities.Mallards.Models.MallardModel;
 import net.minecraft.client.render.entity.EntityRenderDispatcher;
 import net.minecraft.client.render.entity.MobEntityRenderer;
 import net.minecraft.util.Identifier;
 import net.minecraft.util.math.MathHelper;
 
-import static dev.hiitsdevin.pastelwonderland.PastelWonderland.MOD_ID;
+import static devos.pastelwonderland.PastelWonderland.MOD_ID;
 
 // the amount of shit i have to make for a fucking mob is  a n n o y i n g  m e  -Devin
 // Lol, saaaame -Zenith

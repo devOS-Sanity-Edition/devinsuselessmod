@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "dev.hiitsdevin.pastelwonderland.Mixin",
+  "package": "devos.pastelwonderland.Mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
     "ExperimentalWorldGenScreenDisabler",

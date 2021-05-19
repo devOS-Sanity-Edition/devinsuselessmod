@@ -1,6 +1,6 @@
-package dev.hiitsdevin.pastelwonderland.Entities.Mallards;
+package devos.pastelwonderland.Entities.Mallards;
 
-import dev.hiitsdevin.pastelwonderland.PastelWonderland;
+import devos.pastelwonderland.PastelWonderland;
 import net.minecraft.entity.*;
 import net.minecraft.entity.ai.goal.*;
 import net.minecraft.entity.attribute.DefaultAttributeContainer;
